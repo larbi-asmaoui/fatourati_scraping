@@ -104,21 +104,9 @@ venv.bak/
 
 # PyCharm
 .idea/
-
-# PyCharm - User-specific files
 *.iml
 *.iws
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/dictionaries
-.idea/vcs.xml
-.idea/jsLibraryMappings.xml
 
-# PyCharm - Sensitive or machine-specific files
-.idea/sshConfigs.xml
-.idea/httpRequests
-.idea/codeStyles/codeStyleConfig.xml
-.idea/codeStyles/Project.xml
 
 # VSCode
 .vscode/
