@@ -132,22 +132,4 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
-# Linux generated files
-*.swp
-*.swo
-*~
-.cache
-project.pyc
 
-# Docker files
-*.dockerfile
-
-# Kubernetes
-*.yaml
-*.yml
-
-# Backup files
-*.bak
-*.tmp
-*.temp
-*.old
